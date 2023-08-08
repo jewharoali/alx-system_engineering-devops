@@ -1,2 +1,2 @@
 #!/bin/bash
-ID='hello user'
+id='hello user' | echo $id
